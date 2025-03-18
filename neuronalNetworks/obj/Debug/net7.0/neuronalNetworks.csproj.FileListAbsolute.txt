@@ -1,0 +1,15 @@
+C:\Users\karol\Documentos\GitHub\Curso-IA-2025\neuronalNetworks\bin\Debug\net7.0\neuronalNetworks.exe
+C:\Users\karol\Documentos\GitHub\Curso-IA-2025\neuronalNetworks\bin\Debug\net7.0\neuronalNetworks.deps.json
+C:\Users\karol\Documentos\GitHub\Curso-IA-2025\neuronalNetworks\bin\Debug\net7.0\neuronalNetworks.runtimeconfig.json
+C:\Users\karol\Documentos\GitHub\Curso-IA-2025\neuronalNetworks\bin\Debug\net7.0\neuronalNetworks.dll
+C:\Users\karol\Documentos\GitHub\Curso-IA-2025\neuronalNetworks\bin\Debug\net7.0\neuronalNetworks.pdb
+C:\Users\karol\Documentos\GitHub\Curso-IA-2025\neuronalNetworks\obj\Debug\net7.0\neuronalNetworks.csproj.AssemblyReference.cache
+C:\Users\karol\Documentos\GitHub\Curso-IA-2025\neuronalNetworks\obj\Debug\net7.0\neuronalNetworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Documentos\GitHub\Curso-IA-2025\neuronalNetworks\obj\Debug\net7.0\neuronalNetworks.AssemblyInfoInputs.cache
+C:\Users\karol\Documentos\GitHub\Curso-IA-2025\neuronalNetworks\obj\Debug\net7.0\neuronalNetworks.AssemblyInfo.cs
+C:\Users\karol\Documentos\GitHub\Curso-IA-2025\neuronalNetworks\obj\Debug\net7.0\neuronalNetworks.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documentos\GitHub\Curso-IA-2025\neuronalNetworks\obj\Debug\net7.0\neuronalNetworks.dll
+C:\Users\karol\Documentos\GitHub\Curso-IA-2025\neuronalNetworks\obj\Debug\net7.0\refint\neuronalNetworks.dll
+C:\Users\karol\Documentos\GitHub\Curso-IA-2025\neuronalNetworks\obj\Debug\net7.0\neuronalNetworks.pdb
+C:\Users\karol\Documentos\GitHub\Curso-IA-2025\neuronalNetworks\obj\Debug\net7.0\neuronalNetworks.genruntimeconfig.cache
+C:\Users\karol\Documentos\GitHub\Curso-IA-2025\neuronalNetworks\obj\Debug\net7.0\ref\neuronalNetworks.dll
